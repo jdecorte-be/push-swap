@@ -33,18 +33,12 @@
     <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&labelColor=000000"
          alt="CI/CD GitHub Actions">
   </a>
-  <a href="https://github.com/jdecorte-be/push-swap">
-    <img src="https://img.shields.io/badge/topic-42--school-66D9EF?logo=github&logoColor=white&labelColor=000000"
-         alt="push-swap 42-school">
-  </a>
+
   <a href="https://github.com/jdecorte-be/push-swap">
     <img src="https://img.shields.io/badge/topic-algorithm-66D9EF?logo=github&logoColor=white&labelColor=000000"
          alt="push-swap algorithm">
   </a>
-  <a href="https://github.com/jdecorte-be/push-swap">
-    <img src="https://img.shields.io/badge/topic-c-66D9EF?logo=github&logoColor=white&labelColor=000000"
-         alt="push-swap c">
-  </a>
+
   <a href="https://github.com/jdecorte-be/push-swap/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
          alt="push-swap license">
@@ -64,6 +58,8 @@
   <a href="#part-iii-from-stack-b-to-stack-a">Part III: From Stack B to Stack A</a>
 </p>
 </header>
+
+---
 
 The **push_swap** project is a very simple and highly effective algorithm project: data will need to be sorted. You have at your disposal a set of int values, 2 stacks and a set of instructions to manipulate both stacks.
 
