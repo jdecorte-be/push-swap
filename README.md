@@ -10,35 +10,29 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/push-swap">
-    <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
-         alt="Language C">
+<a href="https://www.42.fr">
+    <img src="https://img.shields.io/badge/42-School%20Project-000000?logo=42&logoColor=white&labelColor=000000"
+         alt="42 School Project">
   </a>
-<a href="https://www.42.fr/">
-    <img src="https://img.shields.io/badge/School-42-00BABC?logo=42&logoColor=white&labelColor=000000"
-         alt="School 42">
+<a href="#">
+    <img src="https://img.shields.io/badge/Focus-Sorting%20Algorithms-007EC6?logo=algolia&logoColor=white&labelColor=000000"
+         alt="Focus Sorting Algorithms">
   </a>
-<a href="https://github.com/jdecorte-be/push-swap">
-    <img src="https://img.shields.io/badge/Algorithm-Sorting-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlNvcnRpbmc8L3RpdGxlPjxwYXRoIGQ9Ik0zIDVoNFYzaC00em01IDBoNFYzaC00em01IDBoNFYzaC00em01IDBoNFYzaC00ek0zIDEzaDRWOGgtNHptNSAwaDRWOEgtOHptNSAwaDRWOEgtMTN6bTUgMGg0VjhoLTR6TTMgMjFoNFYxNmgtNHptNSAwaDRWMTZoLTh6bTUgMGg0VjE2aC00em01IDBoNFYxNmgtNHoiLz48L3N2Zz4%3D&logoColor=white&labelColor=000000"
-         alt="Algorithm Sorting">
+<a href="#">
+    <img src="https://img.shields.io/badge/Type-CLI%20Tool-555555?logo=gnome-terminal&logoColor=white&labelColor=000000"
+         alt="Type CLI Tool">
   </a>
-<a href="https://github.com/jdecorte-be/push-swap/blob/master/Makefile">
-    <img src="https://img.shields.io/badge/Build-Makefile-4298B8?logo=gnu-make&logoColor=white&labelColor=000000"
-         alt="Build Makefile">
+<a href="#">
+    <img src="https://img.shields.io/badge/Platform-POSIX-9f9f9f?logo=linux&logoColor=white&labelColor=000000"
+         alt="Platform POSIX">
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/jdecorte-be/push-swap/actions">
-    <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&labelColor=000000"
-         alt="CI/CD GitHub Actions">
+<a href="#">
+    <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
+         alt="Language C">
   </a>
-
-  <a href="https://github.com/jdecorte-be/push-swap">
-    <img src="https://img.shields.io/badge/topic-algorithm-66D9EF?logo=github&logoColor=white&labelColor=000000"
-         alt="push-swap algorithm">
-  </a>
-
   <a href="https://github.com/jdecorte-be/push-swap/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
          alt="push-swap license">
@@ -46,6 +40,18 @@
   <a href="https://github.com/jdecorte-be/push-swap/stargazers">
     <img src="https://img.shields.io/github/stars/jdecorte-be/push-swap?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
          alt="push-swap stars">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap/issues">
+    <img src="https://img.shields.io/github/issues/jdecorte-be/push-swap?logoColor=white&labelColor=000000&color=orange"
+         alt="push-swap issues">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/github/repo-size/jdecorte-be/push-swap?logo=database&logoColor=white&labelColor=000000&color=AE81FF"
+         alt="push-swap repo size">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/github/languages/top/jdecorte-be/push-swap?logo=code&logoColor=white&labelColor=000000&color=A6E22E"
+         alt="push-swap top language">
   </a>
 </p>
 <p align="center">
