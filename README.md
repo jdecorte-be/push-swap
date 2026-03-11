@@ -1,6 +1,38 @@
+<!-- README_HEADER_START -->
+<header>
 <h1 align="center">
-	📖 Push Swap
+  <a href="https://github.com/jdecorte-be/push-swap"><img src=".assets/banner.png" alt="push-swap" ></a>
+  push-swap
+  <br>
 </h1>
+
+  <p align="center">42 Algorithm Project - Sort problem</p>
+
+<p align="center">
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://shields.io/github/stars/jdecorte-be/push-swap?logo=star&logoColor=white&labelColor=000000&color=yellow" alt="push-swap badge">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://shields.io/github/issues/jdecorte-be/push-swap?logoColor=white&labelColor=000000&color=orange" alt="push-swap badge">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://shields.io/github/repo-size/jdecorte-be/push-swap?logo=database&logoColor=white&labelColor=000000&color=purple" alt="push-swap badge">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://shields.io/github/languages/top/jdecorte-be/push-swap?logo=code&logoColor=white&labelColor=000000&color=green" alt="push-swap badge">
+  </a>
+</p>
+<p align="center">
+  <a href="#pushswap-instructions">push_swap instructions</a> •
+  <a href="#compilation">Compilation</a> •
+  <a href="#execute">Execute</a> •
+  <a href="#tester">Tester</a> •
+  <a href="#part-i-preparing-for-solving">Part I: Preparing for solving</a> •
+  <a href="#part-ii-from-stack-a-to-stack-b">Part II: From Stack A to Stack B</a> •
+  <a href="#part-iii-from-stack-b-to-stack-a">Part III: From Stack B to Stack A</a>
+</p>
+</header>
+<!-- README_HEADER_END -->
 
 <p align="center">
 	<b><i>42 Algorithm Project - Sort problem</i></b><br>
