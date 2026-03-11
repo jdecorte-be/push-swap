@@ -1,3 +1,70 @@
+<header>
+<h1 align="center">
+  <a href="https://github.com/jdecorte-be/push-swap"><img src=".assets/banner.png" alt="push-swap" ></a>
+  push-swap
+  <br>
+</h1>
+
+<p align="center">
+  An algorithm project from 42 school. Sorts a list of integers using two stacks and a limited set of instructions, aiming for the shortest solution.
+</p>
+
+<p align="center">
+<a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c&logoColor=white&labelColor=000000"
+         alt="Language C">
+  </a>
+<a href="https://www.42.fr/">
+    <img src="https://img.shields.io/badge/School-42-00BABC?logo=42&logoColor=white&labelColor=000000"
+         alt="School 42">
+  </a>
+<a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/badge/Algorithm-Sorting-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlNvcnRpbmc8L3RpdGxlPjxwYXRoIGQ9Ik0zIDVoNFYzaC00em01IDBoNFYzaC00em01IDBoNFYzaC00em01IDBoNFYzaC00ek0zIDEzaDRWOGgtNHptNSAwaDRWOEgtOHptNSAwaDRWOEgtMTN6bTUgMGg0VjhoLTR6TTMgMjFoNFYxNmgtNHptNSAwaDRWMTZoLTh6bTUgMGg0VjE2aC00em01IDBoNFYxNmgtNHoiLz48L3N2Zz4%3D&logoColor=white&labelColor=000000"
+         alt="Algorithm Sorting">
+  </a>
+<a href="https://github.com/jdecorte-be/push-swap/blob/master/Makefile">
+    <img src="https://img.shields.io/badge/Build-Makefile-4298B8?logo=gnu-make&logoColor=white&labelColor=000000"
+         alt="Build Makefile">
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/jdecorte-be/push-swap/actions">
+    <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&labelColor=000000"
+         alt="CI/CD GitHub Actions">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/badge/topic-42--school-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="push-swap 42-school">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/badge/topic-algorithm-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="push-swap algorithm">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap">
+    <img src="https://img.shields.io/badge/topic-c-66D9EF?logo=github&logoColor=white&labelColor=000000"
+         alt="push-swap c">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
+         alt="push-swap license">
+  </a>
+  <a href="https://github.com/jdecorte-be/push-swap/stargazers">
+    <img src="https://img.shields.io/github/stars/jdecorte-be/push-swap?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
+         alt="push-swap stars">
+  </a>
+</p>
+<p align="center">
+  <a href="#pushswap-instructions">push_swap instructions</a> •
+  <a href="#compilation">Compilation</a> •
+  <a href="#execute">Execute</a> •
+  <a href="#tester">Tester</a> •
+  <a href="#part-i-preparing-for-solving">Part I: Preparing for solving</a> •
+  <a href="#part-ii-from-stack-a-to-stack-b">Part II: From Stack A to Stack B</a> •
+  <a href="#part-iii-from-stack-b-to-stack-a">Part III: From Stack B to Stack A</a>
+</p>
+</header>
+
 <!-- README_HEADER_START -->
 <header>
 <h1 align="center">
